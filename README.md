@@ -1,13 +1,13 @@
-# Laravel y Android
+# Aprende Kotlin
 
 ## Introducción
 
-Este repositorio se corresponde con el módulo de Kotlin que incluye el "Curso intensivo de Laravel y Android", 
+Este repositorio se corresponde con el módulo de Kotlin que incluye el "**Curso intensivo de Laravel y Android**", 
 en el que desarrollamos una aplicación web y su correspondiente versión móvil.
 
 A continuación puedes ver una presentación en formato de video de lo que aprenderás si te inscribes al curso.
 
-[![Curso de Laravel y Android](https://udemy-images.udemy.com/course/750x422/1454454_9e89.jpg)](https://www.youtube.com/watch?v=pmpbVqjRYQI)
+[![Curso de Laravel y Android](https://res.cloudinary.com/pym/image/upload/c_scale,f_auto,q_auto,w_400/v1599162695/courses/LaravelAndroid.png)](https://www.youtube.com/watch?v=pmpbVqjRYQI)
 
 ## Contenido
 
